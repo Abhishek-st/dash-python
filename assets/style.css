@@ -1,0 +1,9 @@
+.banner img {
+    height: 50px;
+    width: 50;
+    border-radius: 50%;
+}
+
+.graph {
+    width: 400px;
+}
